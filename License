@@ -1,0 +1,178 @@
+Copyright © 2026 Daniel Talberg
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Definitions
+"Software" means all source code, scripts, files, configurations, assets, updates, and other materials contained in this repository or otherwise distributed by the Licensor under this license.
+
+"Licensor" means the copyright owner of the Software (Daniel Talberg).
+
+"Authorized User" means any individual or entity who has received explicit, written permission from the Licensor to use the Software under the terms specified in such permission.
+
+"Written Permission" means a formal, documented authorization provided by the Licensor through email, signed document, or other verifiable written communication that explicitly grants specific usage rights.
+
+"Contribution" means any code, script, patch, pull request, fix, feature, file, documentation, asset, suggestion implemented in the Software, or other material submitted to the Licensor or to this repository by any third party.
+
+"Revocation" means the unilateral, unconditional right of the Licensor to terminate, cancel, withdraw, or rescind any license, permission, or authorization granted under this license, at any time, for any reason or no reason, with or without notice, at the Licensor's sole and absolute discretion.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2. Scope and Prior Versions
+This license applies exclusively to:
+
+a. all original code and materials authored by Daniel Talberg and contained in this repository (vorp_inventory-v2);
+
+b. all Contributions submitted to this repository after its creation date, subject to Section 6.
+
+This license does not apply to, and does not modify or restrict the terms of, any prior versions of vorp_inventory or any code previously released under the GNU General Public License v2.0 (GPL v2) or any other open source license in any prior repository. Such prior releases remain governed solely by their original license terms and are unaffected by this license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3. License Grant — Strictly Limited
+Subject to full compliance with this license and receipt of Written Permission from the Licensor, the Licensor grants Authorized Users a limited, non-exclusive, non-transferable, revocable license to:
+
+a. use the Software solely for the specific purposes and under the specific conditions outlined in the Written Permission;
+
+b. access and view the source code of the Software for reference purposes only;
+
+c. use the Software on infrastructure they own or directly control, subject to any restrictions specified in the Written Permission.
+
+All rights not expressly granted in the Written Permission are reserved exclusively to the Licensor.
+
+THIS LICENSE IS REVOCABLE AT WILL BY THE LICENSOR AT ANY TIME, FOR ANY REASON OR NO REASON, WITH OR WITHOUT NOTICE, AT THE LICENSOR'S SOLE AND ABSOLUTE DISCRETION.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+4. Prohibited Activities
+Without prior Written Permission from the Licensor, no person or entity may:
+
+a. use, access, possess, copy, download, view, or interact with the Software in any manner whatsoever;
+
+b. sell, resell, sublicense, rent, lease, or otherwise commercially exploit the Software;
+
+c. redistribute, republish, reupload, mirror, share, transfer, or otherwise make the Software available to any third party, whether modified or unmodified;
+
+d. copy any portion of the Software into another script, resource, repository, package, or product;
+
+e. modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works of the Software;
+
+f. remove, alter, hide, or obscure any copyright notice, attribution, branding, disclaimer, or license text contained in the Software;
+
+g. claim ownership of the Software or represent the Software, or any modified version of it, as their own work;
+
+h. operate or offer any service, product, or platform using the Software;
+
+i. integrate the Software into any other project, system, or framework;
+
+j. use the Software for any commercial or non-commercial purpose not explicitly authorized in writing.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+5. Written Permission Requirements
+a. Written Permission must be obtained directly from the Licensor prior to any use of the Software.
+
+b. Written Permission must specify:
+
+the name of the Authorized User;
+
+the specific scope of permitted use;
+
+any limitations or conditions;
+
+the duration of the permission (if applicable);
+
+any other terms the Licensor deems necessary.
+
+c. Written Permission is personal to the Authorized User and may not be transferred, assigned, or sublicensed to any third party.
+
+d. Verbal permission or implied permission is not valid. Only Written Permission as defined in this license is acceptable.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+6. Licensor's Right to Revoke
+a. Unconditional Revocation Right: The Licensor reserves the absolute, unconditional, and irrevocable right to revoke any license, permission, or authorization granted under this license at any time, for any reason or no reason, with or without notice, at the Licensor's sole and absolute discretion.
+
+b. No Obligation to Provide Reason: The Licensor is under no obligation to provide any explanation, justification, or reason for revoking any license or permission.
+
+c. Immediate Effect: Any Revocation by the Licensor shall take effect immediately upon the Licensor's decision to revoke, regardless of whether the Authorized User has received notice of such Revocation.
+
+d. No Compensation: The Authorized User shall not be entitled to any compensation, damages, refund, or reimbursement of any kind as a result of any Revocation by the Licensor.
+
+e. No Reliance: The Authorized User acknowledges and agrees that they cannot rely on the continued availability or use of the Software, and that any license or permission granted may be revoked at any time without prior warning.
+
+f. Waiver of Claims: By accepting this license, the Authorized User waives any and all claims, actions, or demands against the Licensor arising from or related to any Revocation of license or permission.
+
+g. Survival of Revocation: Even if the Licensor grants a new Written Permission after a Revocation, such new permission does not invalidate or limit the Licensor's right to revoke again at any time.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+7. Contributions
+By submitting any Contribution to the Software, whether by pull request, patch, direct message, uploaded file, suggestion that is implemented, or by any other means, you agree that:
+
+a. the Contribution does not grant you any ownership, co-ownership, claim, title, or interest in the Software as a whole;
+
+b. the Licensor remains the sole owner of the Software as a whole, including the project name, repository, branding, structure, and all existing material;
+
+c. you grant the Licensor a perpetual, irrevocable, worldwide, non-exclusive, royalty-free right to use, reproduce, modify, adapt, merge, publish, distribute, sublicense, and otherwise exploit your Contribution as part of the Software;
+
+d. the Licensor may use, modify, relicense, refuse, remove, or redistribute any Contribution at the Licensor's discretion;
+
+e. submitting a Contribution does not entitle you to any rights to use the Software beyond what is granted to Authorized Users under this license.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+8. Ownership and Intellectual Property
+The Software is the exclusive property of the Licensor. The Licensor retains all right, title, and interest in and to the Software, including all copyright, trademark, trade secret, and other intellectual property rights.
+
+No patent license is granted under this license. Nothing in this license shall be construed as granting any rights under any patents owned or controlled by the Licensor, whether expressly, by implication, estoppel, or otherwise.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+9. Termination
+This license automatically terminates if:
+
+a. any Authorized User violates any term of this license or the terms of their Written Permission;
+
+b. the Licensor exercises their right to revoke under Section 6;
+
+c. the duration specified in the Written Permission expires.
+
+Upon termination, the Authorized User must immediately:
+
+cease all use of the Software;
+
+delete all copies of the Software and any modified copies;
+
+destroy any materials derived from the Software.
+
+Sections 6, 7, 8, 10, 11, 12, and 13 survive termination.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+10. Governing Law and Jurisdiction
+This license shall be governed by and construed in accordance with the laws of [England], without regard to its conflict of law principles. Any dispute arising from this license shall be subject to the exclusive jurisdiction of the courts located in [England].
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+11. No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR FREE OF SECURITY VULNERABILITIES.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+12. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, BUSINESS, OR GOODWILL), OR ANY OTHER CLAIM, DAMAGES, OR LIABILITY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR INABILITY TO USE THE SOFTWARE, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+13. Acceptance
+By using, copying, accessing, possessing, or contributing to the Software, you acknowledge that you have read this license, understand it, and agree to be bound by its terms. You further acknowledge and agree that:
+
+a. the Licensor has the absolute right to revoke your license at any time, for any reason or no reason, without notice;
+
+b. you have no expectation of continued access to or use of the Software;
+
+c. you waive any claims against the Licensor arising from such Revocation.
+
+If you do not have Written Permission from the Licensor, or if you do not agree to these terms, you must not access, use, or possess the Software in any manner.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
