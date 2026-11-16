@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CPackFileMetaData>
+  <MapDataGroups/>
+  <HDTxdBindingArray itemType="CHDTxdAssetBinding">
+    <Item>
+      <assetType>AT_DRB</assetType>
+      <targetAsset>val_auchouse_ext</targetAsset>
+      <HDTxd>val_04</HDTxd>
+    </Item>
+  </HDTxdBindingArray>
+  <imapDependencies/>
+  <imapDependencies_2>
+    <Item>
+      <imapName>creator_room</imapName>
+      <manifestFlags/>
+      <itypDepArray>
+        <Item>val_04</Item>
+      </itypDepArray>
+    </Item>
+  </imapDependencies_2>
+  <itypDependencies_2/>
+  <Interiors/>
+  <redm_loves_you_7cc2afb2d40476ed/>
+  <redm_loves_you_c1fa8cdfbc6c9972/>
+  <txdRelationships/>
+  <redm_loves_you_faf7283fa0923550/>
+  <redm_loves_you_5179f30cceb03389/>
+</CPackFileMetaData>
